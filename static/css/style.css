@@ -393,3 +393,12 @@ footer {
         margin-left: 5%;
     }
 }
+
+figcaption {
+    color: #666;
+    text-align: center;
+}
+
+figcaption p {
+    font-size: .8em;
+}
