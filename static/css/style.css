@@ -156,10 +156,6 @@ hr {
     border-top: 1px solid #cccccc;
 }
 
-ul ol, ol ol, ul ul {
-    margin: 0em 2em;
-}
-
 /* Header */
 
 header {
