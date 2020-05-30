@@ -69,14 +69,14 @@ a:hover {
 
 a:hover,
 a:focus {
-    color: #a31d1d;
-    border-bottom: 1px solid rgba(163, 29, 29, .5);
+    color: #77067b;
+    border-bottom: 3px solid rgba(99, 3, 66, .5);
 }
 
 a:active {
-    color: #a31d1d;
+    color: #77067b;
     opacity: 0.9;
-    border-bottom: 1px solid rgba(163, 29, 29, .5);
+    border-bottom: 3px solid rgba(99, 3, 66, .5);
 }
 
 a.skip-main {
@@ -244,7 +244,7 @@ article header h1 a {
 }
 
 .article-info a:hover {
-    color: #a31d1d;
+    color: #77067b;
 }
 
 .post-short-list .article-info {
@@ -336,7 +336,7 @@ article img {
 }
 
 .pagination-item a:hover, .pagination-item   a:focus {
-    color: #a31d1d;
+    color: #77067b;
     border-bottom: 0;
 }
 
