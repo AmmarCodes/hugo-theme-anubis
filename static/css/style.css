@@ -137,6 +137,13 @@ kbd {
     line-height: 154%;
 }
 
+code {
+    padding: 2px 4px;
+    color: #1f1f1f;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+}
+
 /* Styles */
 
 blockquote {
